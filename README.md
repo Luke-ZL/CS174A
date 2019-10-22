@@ -1,1 +1,1 @@
-# CS174A
+# My CS174A projects
