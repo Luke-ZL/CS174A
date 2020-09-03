@@ -1,4 +1,4 @@
-# My CS174A projects
+# CS174A_Introduction_to_Computer_Graphics
 ## Introduction
 This contains the first 4 assignments for CS174A Introduction to Computer Graphics taken in Fall 2019
 
